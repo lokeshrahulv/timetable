@@ -111,4 +111,5 @@ Execute the program
 ````
 # OUPUT
 ![Screenshot (131)](https://user-images.githubusercontent.com/118423842/236722873-bff4294b-b5fc-4a65-aa67-9b0f1c8a6fd6.png)
-
+# RESULT
+Thus a Experiment Time Table is successfully developed .
